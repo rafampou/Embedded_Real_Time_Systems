@@ -1,0 +1,1407 @@
+%CPU     ELAPSED
+12.0       00:01
+%CPU     ELAPSED
+ 9.5       00:06
+%CPU     ELAPSED
+ 9.2       00:11
+%CPU     ELAPSED
+ 9.1       00:16
+%CPU     ELAPSED
+ 9.1       00:21
+%CPU     ELAPSED
+ 8.8       00:27
+%CPU     ELAPSED
+ 8.8       00:32
+%CPU     ELAPSED
+ 8.8       00:37
+%CPU     ELAPSED
+ 8.9       00:42
+%CPU     ELAPSED
+ 8.9       00:47
+%CPU     ELAPSED
+ 8.9       00:52
+%CPU     ELAPSED
+ 8.9       00:57
+%CPU     ELAPSED
+ 8.8       01:03
+%CPU     ELAPSED
+ 8.7       01:08
+%CPU     ELAPSED
+ 8.7       01:13
+%CPU     ELAPSED
+ 8.7       01:18
+%CPU     ELAPSED
+ 8.7       01:23
+%CPU     ELAPSED
+ 8.8       01:28
+%CPU     ELAPSED
+ 8.8       01:33
+%CPU     ELAPSED
+ 8.7       01:39
+%CPU     ELAPSED
+ 8.7       01:44
+%CPU     ELAPSED
+ 8.6       01:49
+%CPU     ELAPSED
+ 8.6       01:54
+%CPU     ELAPSED
+ 8.6       01:59
+%CPU     ELAPSED
+ 8.7       02:04
+%CPU     ELAPSED
+ 8.7       02:09
+%CPU     ELAPSED
+ 8.6       02:15
+%CPU     ELAPSED
+ 8.6       02:20
+%CPU     ELAPSED
+ 8.7       02:25
+%CPU     ELAPSED
+ 8.6       02:30
+%CPU     ELAPSED
+ 8.7       02:35
+%CPU     ELAPSED
+ 8.7       02:40
+%CPU     ELAPSED
+ 8.6       02:46
+%CPU     ELAPSED
+ 8.6       02:51
+%CPU     ELAPSED
+ 8.6       02:56
+%CPU     ELAPSED
+ 8.6       03:01
+%CPU     ELAPSED
+ 8.6       03:06
+%CPU     ELAPSED
+ 8.6       03:11
+%CPU     ELAPSED
+ 8.6       03:16
+%CPU     ELAPSED
+ 8.6       03:22
+%CPU     ELAPSED
+ 8.6       03:27
+%CPU     ELAPSED
+ 8.6       03:32
+%CPU     ELAPSED
+ 8.6       03:37
+%CPU     ELAPSED
+ 8.6       03:42
+%CPU     ELAPSED
+ 8.6       03:47
+%CPU     ELAPSED
+ 8.6       03:52
+%CPU     ELAPSED
+ 8.6       03:57
+%CPU     ELAPSED
+ 8.6       04:03
+%CPU     ELAPSED
+ 8.6       04:08
+%CPU     ELAPSED
+ 8.6       04:13
+%CPU     ELAPSED
+ 8.6       04:18
+%CPU     ELAPSED
+ 8.5       04:23
+%CPU     ELAPSED
+ 8.5       04:28
+%CPU     ELAPSED
+ 8.5       04:33
+%CPU     ELAPSED
+ 8.5       04:39
+%CPU     ELAPSED
+ 8.5       04:44
+%CPU     ELAPSED
+ 8.5       04:49
+%CPU     ELAPSED
+ 8.5       04:54
+%CPU     ELAPSED
+ 8.5       04:59
+%CPU     ELAPSED
+ 8.5       05:04
+%CPU     ELAPSED
+ 8.5       05:09
+%CPU     ELAPSED
+ 8.5       05:15
+%CPU     ELAPSED
+ 8.5       05:20
+%CPU     ELAPSED
+ 8.5       05:25
+%CPU     ELAPSED
+ 8.5       05:30
+%CPU     ELAPSED
+ 8.5       05:35
+%CPU     ELAPSED
+ 8.5       05:40
+%CPU     ELAPSED
+ 8.5       05:45
+%CPU     ELAPSED
+ 8.5       05:51
+%CPU     ELAPSED
+ 8.5       05:56
+%CPU     ELAPSED
+ 8.5       06:01
+%CPU     ELAPSED
+ 8.5       06:06
+%CPU     ELAPSED
+ 8.5       06:11
+%CPU     ELAPSED
+ 8.5       06:16
+%CPU     ELAPSED
+ 8.5       06:21
+%CPU     ELAPSED
+ 8.5       06:27
+%CPU     ELAPSED
+ 8.5       06:32
+%CPU     ELAPSED
+ 8.5       06:37
+%CPU     ELAPSED
+ 8.5       06:42
+%CPU     ELAPSED
+ 8.5       06:47
+%CPU     ELAPSED
+ 8.5       06:52
+%CPU     ELAPSED
+ 8.5       06:57
+%CPU     ELAPSED
+ 8.5       07:03
+%CPU     ELAPSED
+ 8.5       07:08
+%CPU     ELAPSED
+ 8.5       07:13
+%CPU     ELAPSED
+ 8.5       07:18
+%CPU     ELAPSED
+ 8.5       07:23
+%CPU     ELAPSED
+ 8.5       07:28
+%CPU     ELAPSED
+ 8.5       07:33
+%CPU     ELAPSED
+ 8.5       07:39
+%CPU     ELAPSED
+ 8.5       07:44
+%CPU     ELAPSED
+ 8.5       07:49
+%CPU     ELAPSED
+ 8.5       07:54
+%CPU     ELAPSED
+ 8.5       07:59
+%CPU     ELAPSED
+ 8.5       08:04
+%CPU     ELAPSED
+ 8.5       08:09
+%CPU     ELAPSED
+ 8.5       08:15
+%CPU     ELAPSED
+ 8.5       08:20
+%CPU     ELAPSED
+ 8.5       08:25
+%CPU     ELAPSED
+ 8.5       08:30
+%CPU     ELAPSED
+ 8.5       08:35
+%CPU     ELAPSED
+ 8.5       08:40
+%CPU     ELAPSED
+ 8.5       08:45
+%CPU     ELAPSED
+ 8.5       08:51
+%CPU     ELAPSED
+ 8.5       08:56
+%CPU     ELAPSED
+ 8.5       09:01
+%CPU     ELAPSED
+ 8.5       09:06
+%CPU     ELAPSED
+ 8.5       09:11
+%CPU     ELAPSED
+ 8.5       09:16
+%CPU     ELAPSED
+ 8.5       09:22
+%CPU     ELAPSED
+ 8.5       09:27
+%CPU     ELAPSED
+ 8.5       09:32
+%CPU     ELAPSED
+ 8.5       09:37
+%CPU     ELAPSED
+ 8.5       09:42
+%CPU     ELAPSED
+ 8.5       09:47
+%CPU     ELAPSED
+ 8.5       09:52
+%CPU     ELAPSED
+ 8.5       09:57
+%CPU     ELAPSED
+ 8.5       10:03
+%CPU     ELAPSED
+ 8.5       10:08
+%CPU     ELAPSED
+ 8.5       10:13
+%CPU     ELAPSED
+ 8.5       10:18
+%CPU     ELAPSED
+ 8.5       10:23
+%CPU     ELAPSED
+ 8.5       10:28
+%CPU     ELAPSED
+ 8.5       10:34
+%CPU     ELAPSED
+ 8.5       10:39
+%CPU     ELAPSED
+ 8.5       10:44
+%CPU     ELAPSED
+ 8.5       10:49
+%CPU     ELAPSED
+ 8.5       10:54
+%CPU     ELAPSED
+ 8.5       10:59
+%CPU     ELAPSED
+ 8.5       11:04
+%CPU     ELAPSED
+ 8.5       11:10
+%CPU     ELAPSED
+ 8.5       11:15
+%CPU     ELAPSED
+ 8.5       11:20
+%CPU     ELAPSED
+ 8.5       11:25
+%CPU     ELAPSED
+ 8.5       11:30
+%CPU     ELAPSED
+ 8.5       11:35
+%CPU     ELAPSED
+ 8.5       11:40
+%CPU     ELAPSED
+ 8.5       11:46
+%CPU     ELAPSED
+ 8.5       11:51
+%CPU     ELAPSED
+ 8.5       11:56
+%CPU     ELAPSED
+ 8.5       12:01
+%CPU     ELAPSED
+ 8.5       12:06
+%CPU     ELAPSED
+ 8.5       12:11
+%CPU     ELAPSED
+ 8.5       12:16
+%CPU     ELAPSED
+ 8.5       12:22
+%CPU     ELAPSED
+ 8.5       12:27
+%CPU     ELAPSED
+ 8.5       12:32
+%CPU     ELAPSED
+ 8.5       12:37
+%CPU     ELAPSED
+ 8.5       12:42
+%CPU     ELAPSED
+ 8.5       12:47
+%CPU     ELAPSED
+ 8.5       12:52
+%CPU     ELAPSED
+ 8.5       12:58
+%CPU     ELAPSED
+ 8.5       13:03
+%CPU     ELAPSED
+ 8.5       13:08
+%CPU     ELAPSED
+ 8.5       13:13
+%CPU     ELAPSED
+ 8.5       13:18
+%CPU     ELAPSED
+ 8.5       13:23
+%CPU     ELAPSED
+ 8.5       13:28
+%CPU     ELAPSED
+ 8.5       13:34
+%CPU     ELAPSED
+ 8.5       13:39
+%CPU     ELAPSED
+ 8.5       13:44
+%CPU     ELAPSED
+ 8.5       13:49
+%CPU     ELAPSED
+ 8.5       13:54
+%CPU     ELAPSED
+ 8.6       13:59
+%CPU     ELAPSED
+ 8.6       14:04
+%CPU     ELAPSED
+ 8.5       14:10
+%CPU     ELAPSED
+ 8.5       14:15
+%CPU     ELAPSED
+ 8.6       14:20
+%CPU     ELAPSED
+ 8.6       14:25
+%CPU     ELAPSED
+ 8.6       14:30
+%CPU     ELAPSED
+ 8.6       14:35
+%CPU     ELAPSED
+ 8.5       14:41
+%CPU     ELAPSED
+ 8.5       14:46
+%CPU     ELAPSED
+ 8.5       14:51
+%CPU     ELAPSED
+ 8.6       14:56
+%CPU     ELAPSED
+ 8.6       15:01
+%CPU     ELAPSED
+ 8.6       15:06
+%CPU     ELAPSED
+ 8.6       15:11
+%CPU     ELAPSED
+ 8.6       15:17
+%CPU     ELAPSED
+ 8.6       15:22
+%CPU     ELAPSED
+ 8.6       15:27
+%CPU     ELAPSED
+ 8.6       15:32
+%CPU     ELAPSED
+ 8.6       15:37
+%CPU     ELAPSED
+ 8.6       15:42
+%CPU     ELAPSED
+ 8.6       15:47
+%CPU     ELAPSED
+ 8.6       15:53
+%CPU     ELAPSED
+ 8.6       15:58
+%CPU     ELAPSED
+ 8.6       16:03
+%CPU     ELAPSED
+ 8.6       16:08
+%CPU     ELAPSED
+ 8.6       16:13
+%CPU     ELAPSED
+ 8.6       16:18
+%CPU     ELAPSED
+ 8.6       16:23
+%CPU     ELAPSED
+ 8.6       16:29
+%CPU     ELAPSED
+ 8.6       16:34
+%CPU     ELAPSED
+ 8.6       16:39
+%CPU     ELAPSED
+ 8.6       16:44
+%CPU     ELAPSED
+ 8.6       16:49
+%CPU     ELAPSED
+ 8.6       16:54
+%CPU     ELAPSED
+ 8.6       16:59
+%CPU     ELAPSED
+ 8.6       17:05
+%CPU     ELAPSED
+ 8.6       17:10
+%CPU     ELAPSED
+ 8.6       17:15
+%CPU     ELAPSED
+ 8.6       17:20
+%CPU     ELAPSED
+ 8.6       17:25
+%CPU     ELAPSED
+ 8.6       17:30
+%CPU     ELAPSED
+ 8.6       17:35
+%CPU     ELAPSED
+ 8.6       17:41
+%CPU     ELAPSED
+ 8.6       17:46
+%CPU     ELAPSED
+ 8.6       17:51
+%CPU     ELAPSED
+ 8.6       17:56
+%CPU     ELAPSED
+ 8.6       18:01
+%CPU     ELAPSED
+ 8.6       18:06
+%CPU     ELAPSED
+ 8.6       18:11
+%CPU     ELAPSED
+ 8.6       18:17
+%CPU     ELAPSED
+ 8.6       18:22
+%CPU     ELAPSED
+ 8.6       18:27
+%CPU     ELAPSED
+ 8.6       18:32
+%CPU     ELAPSED
+ 8.6       18:37
+%CPU     ELAPSED
+ 8.6       18:42
+%CPU     ELAPSED
+ 8.6       18:47
+%CPU     ELAPSED
+ 8.6       18:53
+%CPU     ELAPSED
+ 8.6       18:58
+%CPU     ELAPSED
+ 8.6       19:03
+%CPU     ELAPSED
+ 8.6       19:08
+%CPU     ELAPSED
+ 8.6       19:13
+%CPU     ELAPSED
+ 8.6       19:18
+%CPU     ELAPSED
+ 8.6       19:23
+%CPU     ELAPSED
+ 8.6       19:29
+%CPU     ELAPSED
+ 8.6       19:34
+%CPU     ELAPSED
+ 8.6       19:39
+%CPU     ELAPSED
+ 8.6       19:44
+%CPU     ELAPSED
+ 8.6       19:49
+%CPU     ELAPSED
+ 8.6       19:54
+%CPU     ELAPSED
+ 8.6       19:59
+%CPU     ELAPSED
+ 8.6       20:05
+%CPU     ELAPSED
+ 8.6       20:10
+%CPU     ELAPSED
+ 8.6       20:15
+%CPU     ELAPSED
+ 8.6       20:20
+%CPU     ELAPSED
+ 8.6       20:25
+%CPU     ELAPSED
+ 8.6       20:30
+%CPU     ELAPSED
+ 8.6       20:35
+%CPU     ELAPSED
+ 8.6       20:41
+%CPU     ELAPSED
+ 8.6       20:46
+%CPU     ELAPSED
+ 8.6       20:51
+%CPU     ELAPSED
+ 8.6       20:56
+%CPU     ELAPSED
+ 8.6       21:01
+%CPU     ELAPSED
+ 8.6       21:06
+%CPU     ELAPSED
+ 8.6       21:11
+%CPU     ELAPSED
+ 8.6       21:17
+%CPU     ELAPSED
+ 8.6       21:22
+%CPU     ELAPSED
+ 8.6       21:27
+%CPU     ELAPSED
+ 8.6       21:32
+%CPU     ELAPSED
+ 8.6       21:37
+%CPU     ELAPSED
+ 8.6       21:42
+%CPU     ELAPSED
+ 8.6       21:47
+%CPU     ELAPSED
+ 8.6       21:53
+%CPU     ELAPSED
+ 8.6       21:58
+%CPU     ELAPSED
+ 8.6       22:03
+%CPU     ELAPSED
+ 8.6       22:08
+%CPU     ELAPSED
+ 8.6       22:13
+%CPU     ELAPSED
+ 8.6       22:18
+%CPU     ELAPSED
+ 8.6       22:23
+%CPU     ELAPSED
+ 8.6       22:29
+%CPU     ELAPSED
+ 8.6       22:34
+%CPU     ELAPSED
+ 8.6       22:39
+%CPU     ELAPSED
+ 8.6       22:44
+%CPU     ELAPSED
+ 8.6       22:49
+%CPU     ELAPSED
+ 8.6       22:54
+%CPU     ELAPSED
+ 8.6       22:59
+%CPU     ELAPSED
+ 8.6       23:05
+%CPU     ELAPSED
+ 8.6       23:10
+%CPU     ELAPSED
+ 8.6       23:15
+%CPU     ELAPSED
+ 8.6       23:20
+%CPU     ELAPSED
+ 8.6       23:25
+%CPU     ELAPSED
+ 8.6       23:30
+%CPU     ELAPSED
+ 8.6       23:35
+%CPU     ELAPSED
+ 8.6       23:41
+%CPU     ELAPSED
+ 8.6       23:46
+%CPU     ELAPSED
+ 8.6       23:51
+%CPU     ELAPSED
+ 8.6       23:56
+%CPU     ELAPSED
+ 8.6       24:01
+%CPU     ELAPSED
+ 8.6       24:06
+%CPU     ELAPSED
+ 8.6       24:11
+%CPU     ELAPSED
+ 8.6       24:17
+%CPU     ELAPSED
+ 8.6       24:22
+%CPU     ELAPSED
+ 8.6       24:27
+%CPU     ELAPSED
+ 8.6       24:32
+%CPU     ELAPSED
+ 8.6       24:37
+%CPU     ELAPSED
+ 8.6       24:42
+%CPU     ELAPSED
+ 8.6       24:47
+%CPU     ELAPSED
+ 8.6       24:53
+%CPU     ELAPSED
+ 8.6       24:58
+%CPU     ELAPSED
+ 8.6       25:03
+%CPU     ELAPSED
+ 8.6       25:08
+%CPU     ELAPSED
+ 8.6       25:13
+%CPU     ELAPSED
+ 8.6       25:18
+%CPU     ELAPSED
+ 8.6       25:23
+%CPU     ELAPSED
+ 8.6       25:29
+%CPU     ELAPSED
+ 8.6       25:34
+%CPU     ELAPSED
+ 8.6       25:39
+%CPU     ELAPSED
+ 8.6       25:44
+%CPU     ELAPSED
+ 8.6       25:49
+%CPU     ELAPSED
+ 8.6       25:54
+%CPU     ELAPSED
+ 8.6       26:00
+%CPU     ELAPSED
+ 8.6       26:05
+%CPU     ELAPSED
+ 8.6       26:10
+%CPU     ELAPSED
+ 8.6       26:15
+%CPU     ELAPSED
+ 8.6       26:20
+%CPU     ELAPSED
+ 8.6       26:25
+%CPU     ELAPSED
+ 8.6       26:30
+%CPU     ELAPSED
+ 8.6       26:36
+%CPU     ELAPSED
+ 8.6       26:41
+%CPU     ELAPSED
+ 8.6       26:46
+%CPU     ELAPSED
+ 8.6       26:51
+%CPU     ELAPSED
+ 8.6       26:56
+%CPU     ELAPSED
+ 8.6       27:01
+%CPU     ELAPSED
+ 8.6       27:06
+%CPU     ELAPSED
+ 8.6       27:12
+%CPU     ELAPSED
+ 8.6       27:17
+%CPU     ELAPSED
+ 8.6       27:22
+%CPU     ELAPSED
+ 8.6       27:27
+%CPU     ELAPSED
+ 8.6       27:32
+%CPU     ELAPSED
+ 8.6       27:37
+%CPU     ELAPSED
+ 8.6       27:42
+%CPU     ELAPSED
+ 8.6       27:48
+%CPU     ELAPSED
+ 8.6       27:53
+%CPU     ELAPSED
+ 8.6       27:58
+%CPU     ELAPSED
+ 8.6       28:03
+%CPU     ELAPSED
+ 8.6       28:08
+%CPU     ELAPSED
+ 8.6       28:13
+%CPU     ELAPSED
+ 8.6       28:18
+%CPU     ELAPSED
+ 8.6       28:24
+%CPU     ELAPSED
+ 8.6       28:29
+%CPU     ELAPSED
+ 8.6       28:34
+%CPU     ELAPSED
+ 8.6       28:39
+%CPU     ELAPSED
+ 8.6       28:44
+%CPU     ELAPSED
+ 8.6       28:49
+%CPU     ELAPSED
+ 8.6       28:54
+%CPU     ELAPSED
+ 8.6       29:00
+%CPU     ELAPSED
+ 8.6       29:05
+%CPU     ELAPSED
+ 8.6       29:10
+%CPU     ELAPSED
+ 8.6       29:15
+%CPU     ELAPSED
+ 8.6       29:20
+%CPU     ELAPSED
+ 8.6       29:25
+%CPU     ELAPSED
+ 8.6       29:30
+%CPU     ELAPSED
+ 8.6       29:36
+%CPU     ELAPSED
+ 8.6       29:41
+%CPU     ELAPSED
+ 8.6       29:46
+%CPU     ELAPSED
+ 8.6       29:51
+%CPU     ELAPSED
+ 8.6       29:56
+%CPU     ELAPSED
+ 8.6       30:01
+%CPU     ELAPSED
+ 8.6       30:06
+%CPU     ELAPSED
+ 8.6       30:12
+%CPU     ELAPSED
+ 8.6       30:17
+%CPU     ELAPSED
+ 8.6       30:22
+%CPU     ELAPSED
+ 8.6       30:27
+%CPU     ELAPSED
+ 8.6       30:32
+%CPU     ELAPSED
+ 8.6       30:37
+%CPU     ELAPSED
+ 8.6       30:42
+%CPU     ELAPSED
+ 8.6       30:48
+%CPU     ELAPSED
+ 8.6       30:53
+%CPU     ELAPSED
+ 8.6       30:58
+%CPU     ELAPSED
+ 8.6       31:03
+%CPU     ELAPSED
+ 8.6       31:08
+%CPU     ELAPSED
+ 8.6       31:13
+%CPU     ELAPSED
+ 8.6       31:18
+%CPU     ELAPSED
+ 8.6       31:24
+%CPU     ELAPSED
+ 8.6       31:29
+%CPU     ELAPSED
+ 8.6       31:34
+%CPU     ELAPSED
+ 8.6       31:39
+%CPU     ELAPSED
+ 8.6       31:44
+%CPU     ELAPSED
+ 8.6       31:49
+%CPU     ELAPSED
+ 8.6       31:54
+%CPU     ELAPSED
+ 8.6       32:00
+%CPU     ELAPSED
+ 8.6       32:05
+%CPU     ELAPSED
+ 8.6       32:10
+%CPU     ELAPSED
+ 8.6       32:15
+%CPU     ELAPSED
+ 8.6       32:20
+%CPU     ELAPSED
+ 8.6       32:25
+%CPU     ELAPSED
+ 8.6       32:30
+%CPU     ELAPSED
+ 8.6       32:36
+%CPU     ELAPSED
+ 8.6       32:41
+%CPU     ELAPSED
+ 8.6       32:46
+%CPU     ELAPSED
+ 8.6       32:51
+%CPU     ELAPSED
+ 8.6       32:56
+%CPU     ELAPSED
+ 8.6       33:01
+%CPU     ELAPSED
+ 8.6       33:06
+%CPU     ELAPSED
+ 8.6       33:12
+%CPU     ELAPSED
+ 8.6       33:17
+%CPU     ELAPSED
+ 8.6       33:22
+%CPU     ELAPSED
+ 8.6       33:27
+%CPU     ELAPSED
+ 8.6       33:32
+%CPU     ELAPSED
+ 8.6       33:37
+%CPU     ELAPSED
+ 8.6       33:42
+%CPU     ELAPSED
+ 8.6       33:48
+%CPU     ELAPSED
+ 8.6       33:53
+%CPU     ELAPSED
+ 8.6       33:58
+%CPU     ELAPSED
+ 8.6       34:03
+%CPU     ELAPSED
+ 8.6       34:08
+%CPU     ELAPSED
+ 8.6       34:13
+%CPU     ELAPSED
+ 8.6       34:18
+%CPU     ELAPSED
+ 8.6       34:24
+%CPU     ELAPSED
+ 8.6       34:29
+%CPU     ELAPSED
+ 8.6       34:34
+%CPU     ELAPSED
+ 8.6       34:39
+%CPU     ELAPSED
+ 8.6       34:44
+%CPU     ELAPSED
+ 8.6       34:49
+%CPU     ELAPSED
+ 8.6       34:54
+%CPU     ELAPSED
+ 8.6       35:00
+%CPU     ELAPSED
+ 8.6       35:05
+%CPU     ELAPSED
+ 8.6       35:10
+%CPU     ELAPSED
+ 8.6       35:15
+%CPU     ELAPSED
+ 8.6       35:20
+%CPU     ELAPSED
+ 8.6       35:25
+%CPU     ELAPSED
+ 8.6       35:30
+%CPU     ELAPSED
+ 8.6       35:36
+%CPU     ELAPSED
+ 8.6       35:41
+%CPU     ELAPSED
+ 8.6       35:46
+%CPU     ELAPSED
+ 8.6       35:51
+%CPU     ELAPSED
+ 8.6       35:56
+%CPU     ELAPSED
+ 8.6       36:01
+%CPU     ELAPSED
+ 8.6       36:06
+%CPU     ELAPSED
+ 8.6       36:12
+%CPU     ELAPSED
+ 8.6       36:17
+%CPU     ELAPSED
+ 8.6       36:22
+%CPU     ELAPSED
+ 8.6       36:27
+%CPU     ELAPSED
+ 8.6       36:32
+%CPU     ELAPSED
+ 8.6       36:37
+%CPU     ELAPSED
+ 8.6       36:42
+%CPU     ELAPSED
+ 8.6       36:48
+%CPU     ELAPSED
+ 8.6       36:53
+%CPU     ELAPSED
+ 8.6       36:58
+%CPU     ELAPSED
+ 8.6       37:03
+%CPU     ELAPSED
+ 8.6       37:08
+%CPU     ELAPSED
+ 8.6       37:13
+%CPU     ELAPSED
+ 8.6       37:18
+%CPU     ELAPSED
+ 8.6       37:24
+%CPU     ELAPSED
+ 8.6       37:29
+%CPU     ELAPSED
+ 8.6       37:34
+%CPU     ELAPSED
+ 8.6       37:39
+%CPU     ELAPSED
+ 8.6       37:44
+%CPU     ELAPSED
+ 8.6       37:49
+%CPU     ELAPSED
+ 8.6       37:54
+%CPU     ELAPSED
+ 8.6       37:59
+%CPU     ELAPSED
+ 8.6       38:05
+%CPU     ELAPSED
+ 8.6       38:10
+%CPU     ELAPSED
+ 8.6       38:15
+%CPU     ELAPSED
+ 8.6       38:20
+%CPU     ELAPSED
+ 8.6       38:25
+%CPU     ELAPSED
+ 8.6       38:30
+%CPU     ELAPSED
+ 8.6       38:35
+%CPU     ELAPSED
+ 8.6       38:41
+%CPU     ELAPSED
+ 8.6       38:46
+%CPU     ELAPSED
+ 8.6       38:51
+%CPU     ELAPSED
+ 8.6       38:56
+%CPU     ELAPSED
+ 8.6       39:01
+%CPU     ELAPSED
+ 8.6       39:06
+%CPU     ELAPSED
+ 8.6       39:11
+%CPU     ELAPSED
+ 8.6       39:17
+%CPU     ELAPSED
+ 8.6       39:22
+%CPU     ELAPSED
+ 8.6       39:27
+%CPU     ELAPSED
+ 8.6       39:32
+%CPU     ELAPSED
+ 8.6       39:37
+%CPU     ELAPSED
+ 8.6       39:42
+%CPU     ELAPSED
+ 8.6       39:48
+%CPU     ELAPSED
+ 8.6       39:53
+%CPU     ELAPSED
+ 8.6       39:58
+%CPU     ELAPSED
+ 8.6       40:03
+%CPU     ELAPSED
+ 8.6       40:08
+%CPU     ELAPSED
+ 8.6       40:13
+%CPU     ELAPSED
+ 8.6       40:18
+%CPU     ELAPSED
+ 8.6       40:24
+%CPU     ELAPSED
+ 8.6       40:29
+%CPU     ELAPSED
+ 8.6       40:34
+%CPU     ELAPSED
+ 8.6       40:39
+%CPU     ELAPSED
+ 8.6       40:44
+%CPU     ELAPSED
+ 8.6       40:49
+%CPU     ELAPSED
+ 8.6       40:54
+%CPU     ELAPSED
+ 8.6       41:00
+%CPU     ELAPSED
+ 8.6       41:05
+%CPU     ELAPSED
+ 8.6       41:10
+%CPU     ELAPSED
+ 8.6       41:15
+%CPU     ELAPSED
+ 8.6       41:20
+%CPU     ELAPSED
+ 8.6       41:25
+%CPU     ELAPSED
+ 8.6       41:30
+%CPU     ELAPSED
+ 8.6       41:35
+%CPU     ELAPSED
+ 8.6       41:41
+%CPU     ELAPSED
+ 8.6       41:46
+%CPU     ELAPSED
+ 8.6       41:51
+%CPU     ELAPSED
+ 8.6       41:56
+%CPU     ELAPSED
+ 8.6       42:01
+%CPU     ELAPSED
+ 8.6       42:06
+%CPU     ELAPSED
+ 8.6       42:11
+%CPU     ELAPSED
+ 8.6       42:17
+%CPU     ELAPSED
+ 8.6       42:22
+%CPU     ELAPSED
+ 8.6       42:27
+%CPU     ELAPSED
+ 8.6       42:32
+%CPU     ELAPSED
+ 8.6       42:37
+%CPU     ELAPSED
+ 8.6       42:42
+%CPU     ELAPSED
+ 8.6       42:48
+%CPU     ELAPSED
+ 8.6       42:53
+%CPU     ELAPSED
+ 8.6       42:58
+%CPU     ELAPSED
+ 8.6       43:03
+%CPU     ELAPSED
+ 8.6       43:08
+%CPU     ELAPSED
+ 8.6       43:13
+%CPU     ELAPSED
+ 8.6       43:18
+%CPU     ELAPSED
+ 8.6       43:24
+%CPU     ELAPSED
+ 8.6       43:29
+%CPU     ELAPSED
+ 8.6       43:34
+%CPU     ELAPSED
+ 8.6       43:39
+%CPU     ELAPSED
+ 8.6       43:44
+%CPU     ELAPSED
+ 8.6       43:49
+%CPU     ELAPSED
+ 8.6       43:54
+%CPU     ELAPSED
+ 8.6       44:00
+%CPU     ELAPSED
+ 8.6       44:05
+%CPU     ELAPSED
+ 8.6       44:10
+%CPU     ELAPSED
+ 8.6       44:15
+%CPU     ELAPSED
+ 8.6       44:20
+%CPU     ELAPSED
+ 8.6       44:25
+%CPU     ELAPSED
+ 8.6       44:30
+%CPU     ELAPSED
+ 8.6       44:36
+%CPU     ELAPSED
+ 8.6       44:41
+%CPU     ELAPSED
+ 8.6       44:46
+%CPU     ELAPSED
+ 8.6       44:51
+%CPU     ELAPSED
+ 8.6       44:56
+%CPU     ELAPSED
+ 8.6       45:01
+%CPU     ELAPSED
+ 8.6       45:06
+%CPU     ELAPSED
+ 8.6       45:12
+%CPU     ELAPSED
+ 8.6       45:17
+%CPU     ELAPSED
+ 8.6       45:22
+%CPU     ELAPSED
+ 8.6       45:27
+%CPU     ELAPSED
+ 8.6       45:32
+%CPU     ELAPSED
+ 8.6       45:37
+%CPU     ELAPSED
+ 8.6       45:42
+%CPU     ELAPSED
+ 8.6       45:48
+%CPU     ELAPSED
+ 8.6       45:53
+%CPU     ELAPSED
+ 8.6       45:58
+%CPU     ELAPSED
+ 8.6       46:03
+%CPU     ELAPSED
+ 8.6       46:08
+%CPU     ELAPSED
+ 8.6       46:13
+%CPU     ELAPSED
+ 8.6       46:18
+%CPU     ELAPSED
+ 8.6       46:24
+%CPU     ELAPSED
+ 8.6       46:29
+%CPU     ELAPSED
+ 8.6       46:34
+%CPU     ELAPSED
+ 8.6       46:39
+%CPU     ELAPSED
+ 8.6       46:44
+%CPU     ELAPSED
+ 8.6       46:49
+%CPU     ELAPSED
+ 8.6       46:55
+%CPU     ELAPSED
+ 8.6       47:00
+%CPU     ELAPSED
+ 8.6       47:05
+%CPU     ELAPSED
+ 8.6       47:10
+%CPU     ELAPSED
+ 8.6       47:15
+%CPU     ELAPSED
+ 8.6       47:20
+%CPU     ELAPSED
+ 8.6       47:25
+%CPU     ELAPSED
+ 8.6       47:31
+%CPU     ELAPSED
+ 8.6       47:36
+%CPU     ELAPSED
+ 8.6       47:41
+%CPU     ELAPSED
+ 8.6       47:46
+%CPU     ELAPSED
+ 8.6       47:51
+%CPU     ELAPSED
+ 8.6       47:56
+%CPU     ELAPSED
+ 8.6       48:01
+%CPU     ELAPSED
+ 8.6       48:07
+%CPU     ELAPSED
+ 8.6       48:12
+%CPU     ELAPSED
+ 8.6       48:17
+%CPU     ELAPSED
+ 8.6       48:22
+%CPU     ELAPSED
+ 8.6       48:27
+%CPU     ELAPSED
+ 8.6       48:32
+%CPU     ELAPSED
+ 8.6       48:37
+%CPU     ELAPSED
+ 8.6       48:43
+%CPU     ELAPSED
+ 8.6       48:48
+%CPU     ELAPSED
+ 8.6       48:53
+%CPU     ELAPSED
+ 8.6       48:58
+%CPU     ELAPSED
+ 8.6       49:03
+%CPU     ELAPSED
+ 8.6       49:08
+%CPU     ELAPSED
+ 8.6       49:13
+%CPU     ELAPSED
+ 8.6       49:19
+%CPU     ELAPSED
+ 8.6       49:24
+%CPU     ELAPSED
+ 8.6       49:29
+%CPU     ELAPSED
+ 8.6       49:34
+%CPU     ELAPSED
+ 8.6       49:39
+%CPU     ELAPSED
+ 8.6       49:44
+%CPU     ELAPSED
+ 8.6       49:49
+%CPU     ELAPSED
+ 8.6       49:55
+%CPU     ELAPSED
+ 8.6       50:00
+%CPU     ELAPSED
+ 8.6       50:05
+%CPU     ELAPSED
+ 8.6       50:10
+%CPU     ELAPSED
+ 8.6       50:15
+%CPU     ELAPSED
+ 8.6       50:20
+%CPU     ELAPSED
+ 8.6       50:25
+%CPU     ELAPSED
+ 8.6       50:31
+%CPU     ELAPSED
+ 8.6       50:36
+%CPU     ELAPSED
+ 8.6       50:41
+%CPU     ELAPSED
+ 8.6       50:46
+%CPU     ELAPSED
+ 8.6       50:51
+%CPU     ELAPSED
+ 8.6       50:56
+%CPU     ELAPSED
+ 8.6       51:01
+%CPU     ELAPSED
+ 8.6       51:07
+%CPU     ELAPSED
+ 8.6       51:12
+%CPU     ELAPSED
+ 8.6       51:17
+%CPU     ELAPSED
+ 8.6       51:22
+%CPU     ELAPSED
+ 8.6       51:27
+%CPU     ELAPSED
+ 8.6       51:32
+%CPU     ELAPSED
+ 8.6       51:38
+%CPU     ELAPSED
+ 8.6       51:43
+%CPU     ELAPSED
+ 8.6       51:48
+%CPU     ELAPSED
+ 8.6       51:53
+%CPU     ELAPSED
+ 8.6       51:58
+%CPU     ELAPSED
+ 8.6       52:03
+%CPU     ELAPSED
+ 8.6       52:08
+%CPU     ELAPSED
+ 8.6       52:14
+%CPU     ELAPSED
+ 8.6       52:19
+%CPU     ELAPSED
+ 8.6       52:24
+%CPU     ELAPSED
+ 8.6       52:29
+%CPU     ELAPSED
+ 8.6       52:34
+%CPU     ELAPSED
+ 8.6       52:39
+%CPU     ELAPSED
+ 8.6       52:44
+%CPU     ELAPSED
+ 8.6       52:50
+%CPU     ELAPSED
+ 8.6       52:55
+%CPU     ELAPSED
+ 8.6       53:00
+%CPU     ELAPSED
+ 8.6       53:05
+%CPU     ELAPSED
+ 8.6       53:10
+%CPU     ELAPSED
+ 8.6       53:15
+%CPU     ELAPSED
+ 8.6       53:20
+%CPU     ELAPSED
+ 8.6       53:26
+%CPU     ELAPSED
+ 8.6       53:31
+%CPU     ELAPSED
+ 8.6       53:36
+%CPU     ELAPSED
+ 8.6       53:41
+%CPU     ELAPSED
+ 8.6       53:46
+%CPU     ELAPSED
+ 8.6       53:51
+%CPU     ELAPSED
+ 8.6       53:56
+%CPU     ELAPSED
+ 8.6       54:02
+%CPU     ELAPSED
+ 8.6       54:07
+%CPU     ELAPSED
+ 8.6       54:12
+%CPU     ELAPSED
+ 8.6       54:17
+%CPU     ELAPSED
+ 8.6       54:22
+%CPU     ELAPSED
+ 8.6       54:27
+%CPU     ELAPSED
+ 8.6       54:32
+%CPU     ELAPSED
+ 8.6       54:37
+%CPU     ELAPSED
+ 8.6       54:43
+%CPU     ELAPSED
+ 8.6       54:48
+%CPU     ELAPSED
+ 8.6       54:53
+%CPU     ELAPSED
+ 8.6       54:58
+%CPU     ELAPSED
+ 8.6       55:03
+%CPU     ELAPSED
+ 8.6       55:08
+%CPU     ELAPSED
+ 8.6       55:14
+%CPU     ELAPSED
+ 8.6       55:19
+%CPU     ELAPSED
+ 8.6       55:24
+%CPU     ELAPSED
+ 8.6       55:29
+%CPU     ELAPSED
+ 8.6       55:34
+%CPU     ELAPSED
+ 8.6       55:39
+%CPU     ELAPSED
+ 8.6       55:44
+%CPU     ELAPSED
+ 8.6       55:49
+%CPU     ELAPSED
+ 8.6       55:55
+%CPU     ELAPSED
+ 8.6       56:00
+%CPU     ELAPSED
+ 8.6       56:05
+%CPU     ELAPSED
+ 8.6       56:10
+%CPU     ELAPSED
+ 8.6       56:15
+%CPU     ELAPSED
+ 8.6       56:20
+%CPU     ELAPSED
+ 8.6       56:25
+%CPU     ELAPSED
+ 8.6       56:31
+%CPU     ELAPSED
+ 8.6       56:36
+%CPU     ELAPSED
+ 8.6       56:41
+%CPU     ELAPSED
+ 8.6       56:46
+%CPU     ELAPSED
+ 8.6       56:51
+%CPU     ELAPSED
+ 8.6       56:56
+%CPU     ELAPSED
+ 8.6       57:01
+%CPU     ELAPSED
+ 8.6       57:07
+%CPU     ELAPSED
+ 8.6       57:12
+%CPU     ELAPSED
+ 8.6       57:17
+%CPU     ELAPSED
+ 8.6       57:22
+%CPU     ELAPSED
+ 8.6       57:27
+%CPU     ELAPSED
+ 8.6       57:32
+%CPU     ELAPSED
+ 8.6       57:37
+%CPU     ELAPSED
+ 8.6       57:43
+%CPU     ELAPSED
+ 8.6       57:48
+%CPU     ELAPSED
+ 8.6       57:53
+%CPU     ELAPSED
+ 8.6       57:58
+%CPU     ELAPSED
+ 8.6       58:03
+%CPU     ELAPSED
+ 8.6       58:08
+%CPU     ELAPSED
+ 8.6       58:13
+%CPU     ELAPSED
+ 8.6       58:19
+%CPU     ELAPSED
+ 8.6       58:24
+%CPU     ELAPSED
+ 8.6       58:29
+%CPU     ELAPSED
+ 8.6       58:34
+%CPU     ELAPSED
+ 8.6       58:39
+%CPU     ELAPSED
+ 8.6       58:44
+%CPU     ELAPSED
+ 8.6       58:49
+%CPU     ELAPSED
+ 8.6       58:55
+%CPU     ELAPSED
+ 8.6       59:00
+%CPU     ELAPSED
+ 8.6       59:05
+%CPU     ELAPSED
+ 8.6       59:10
+%CPU     ELAPSED
+ 8.6       59:15
+%CPU     ELAPSED
+ 8.6       59:20
+%CPU     ELAPSED
+ 8.6       59:25
+%CPU     ELAPSED
+ 8.6       59:31
+%CPU     ELAPSED
+ 8.6       59:36
+%CPU     ELAPSED
+ 8.6       59:41
+%CPU     ELAPSED
+ 8.6       59:46
+%CPU     ELAPSED
+ 8.6       59:51
+%CPU     ELAPSED
+ 8.6       59:56
+%CPU     ELAPSED
+ 8.6    01:00:01
+%CPU     ELAPSED
+ 8.6    01:00:07
+%CPU     ELAPSED
+ 8.6    01:00:12
+%CPU     ELAPSED
